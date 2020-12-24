@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608783336 source:d:\manipal\sem1\ads\ads basics\musab bin subair 201051028\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank.h"
+	<assert.h>
+
+1608783686 d:\manipal\sem1\ads\ads basics\musab bin subair 201051028\bank.h
+	<stddef.h>
+	<stdlib.h>
+	<stdint.h>
+	<uchar.h>
+
